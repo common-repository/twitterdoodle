@@ -1,0 +1,13 @@
+.tweet {
+    border-bottom: 1px dashed black;
+    padding: 5px 0px;
+}
+
+.twitterdoodle_footer {
+    font-size: x-small;
+}
+
+.tweet_meta {
+    font-color: grey;
+}
+
